@@ -7,6 +7,9 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다. 
     </div>
+          <a href="https://your-portfolio-link.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/포트폴리오-blue?style=for-the-badge" alt="Portfolio Link">
+      </a>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">포트폴리오.</h2>
     </div>
     <div style="text-align: left;">
