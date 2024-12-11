@@ -5,11 +5,13 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 백엔드 개발자 김지웅입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다. </div> 
     <div style="text-align: left; margin: 20px 0;">
-        <a href="https://kgw08003.netlify.app/" target="_blank" style="text-decoration: none;">
-            <button style="background: linear-gradient(90deg, #f3ff47, #c513f6); color: #fff; border: none; padding: 12px 25px; font-size: 16px; font-weight: bold; border-radius: 25px; cursor: pointer; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
-                포트폴리오 바로가기
-            </button>
-        </a>
+    <a href="https://kgw08003.netlify.app/" target="_blank" style="text-decoration: none;">
+        <button style="background: linear-gradient(90deg, #f3ff47, #c513f6); color: #fff; border: none; padding: 12px 25px; font-size: 16px; font-weight: bold; border-radius: 25px; cursor: pointer; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+            포트폴리오 바로가기
+        </button>
+    </a>
+</div>
+
     </div>
     </div>
     </div>
