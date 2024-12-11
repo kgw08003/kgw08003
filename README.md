@@ -8,7 +8,7 @@
   저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다.
 </p>
 
-<h2 align="text-align: left">포트폴리오</h2>
+<h2 align="text-align: left">📝포트폴리오</h2>
 <p align="text-align: left">
   <a href="https://kgw08003.netlify.app/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/포트폴리오-blue?style=for-the-badge" alt="Portfolio Link">
