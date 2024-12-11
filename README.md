@@ -3,9 +3,6 @@
     </div>
     <div style="display: flex; align-items: center; justify-content: space-between;">
       <h2>안녕하세요. 백엔드 개발자 김지웅입니다.</h2>
-      <a href="https://your-portfolio-link.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/포트폴리오-blue?style=for-the-badge" alt="Portfolio Link">
-      </a>
     </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다. 
