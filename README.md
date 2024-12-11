@@ -1,7 +1,3 @@
-공유하기
-
-
-나의 말:
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3ff47,100:c513f6&height=240&text=Let's%20Grow%20Together!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
