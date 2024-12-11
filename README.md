@@ -1,20 +1,16 @@
-<div align="center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3ff47,100:c513f6&height=240&text=Let's%20Grow%20Together!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-</div>
-<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin: 20px 0;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin: 0;">
-        안녕하세요. 백엔드 개발자 김지웅입니다.
-    </h2>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 백엔드 개발자 김지웅입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다. </div> 
+    </div>
+    <div style="text-align: center; margin: 30px 0;">
     <a href="https://kgw08003.netlify.app/" target="_blank" style="text-decoration: none;">
-        <button style="background: linear-gradient(90deg, #f3ff47, #c513f6); color: white; border: none; padding: 10px 20px; font-size: 16px; font-weight: bold; border-radius: 20px; cursor: pointer; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
-            포트폴리오
+        <button style="background: linear-gradient(90deg, #f3ff47, #c513f6); color: white; border: none; padding: 15px 30px; font-size: 18px; font-weight: bold; border-radius: 30px; cursor: pointer; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+            포트폴리오 바로가기
         </button>
     </a>
-</div>
-<div style="text-align: left;">
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다.
-    </div>
 </div>
 
     <div style="text-align: left;">
