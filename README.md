@@ -10,8 +10,8 @@
     <a href="https://your-portfolio-link.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/포트폴리오-blue?style=for-the-badge" alt="Portfolio Link">
       </a>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">포트폴리오.</h2>
-    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">포트폴리오</h2>
+
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
