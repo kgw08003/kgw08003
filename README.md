@@ -1,10 +1,15 @@
+공유하기
+
+
+나의 말:
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3ff47,100:c513f6&height=240&text=Let's%20Grow%20Together!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 백엔드 개발자 김지웅입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다. </div>
-
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 포트폴리오. </h2>  
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -40,4 +45,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgw08003&layout=compact&bg_color=60,fcff33,ff24cf&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
