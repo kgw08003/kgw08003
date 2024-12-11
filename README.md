@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3ff47,100:c513f6&height=240&text=Let's%20Grow%20Together!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
-<h2 align="center">안녕하세요. 백엔드 개발자 김지웅입니다.</h2>
+<h2 align="text-align: left">안녕하세요. 백엔드 개발자 김지웅입니다.</h2>
 
-<p align="center" style="font-weight: 700; font-size: 15px; color: #282d33;">
+<p align="text-align: left" style="font-weight: 700; font-size: 15px; color: #282d33;">
   저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다.
 </p>
 
-<h2 align="center">포트폴리오</h2>
-<p align="center">
+<h2 align="text-align: left">포트폴리오</h2>
+<p align="text-align: left">
   <a href="https://your-portfolio-link.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/포트폴리오-blue?style=for-the-badge" alt="Portfolio Link">
   </a>
