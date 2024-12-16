@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h2 align="text-align: left"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>블로그</h2>
+<h2 align="text-align: left">>블로그</h2>
 <p align="text-align: left">
   <a href="https://kgw08003.tistory.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/티스토리-blue?style=for-the-badge" alt="Portfolio Link">
