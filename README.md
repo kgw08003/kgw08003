@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h2 align="text-align: left">📝블로그</h2>
+<h2 align="text-align: left">tistory블로그</h2>
 <p align="text-align: left">
   <a href="https://kgw08003.tistory.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/티스토리-blue?style=for-the-badge" alt="Portfolio Link">
