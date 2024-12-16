@@ -22,7 +22,7 @@
 <h2 align="text-align: left">📚블로그</h2>
 <p align="text-align: left">
   <a href="https://kgw08003.tistory.com/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/티스토리-Orange?style=for-the-badge" alt="Portfolio Link">
+    <img src="https://img.shields.io/badge/티스토리-orange?style=for-the-badge" alt="Portfolio Link">
   </a>
 </p>
     <div style="text-align: left;">
