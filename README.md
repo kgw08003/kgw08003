@@ -69,5 +69,4 @@
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw08003" alt="백준 프로필" />
     </a>
   </div>
-  <p style="font-size: 14px; color: #555;">백준 알고리즘에서 문제 풀이를 통해 꾸준히 실력을 쌓고 있습니다. 다양한 알고리즘 문제를 풀면서 문제 해결 능력을 향상시키고 있습니다.</p>
 </div>
