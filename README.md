@@ -24,7 +24,8 @@
   <a href="https://kgw08003.tistory.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/티스토리-orange?style=for-the-badge" alt="Portfolio Link">
   </a>
-  <a [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=[kgw08003])](https://solved.ac/[kgw08003]/)​> </a>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kgw08003})](https://solved.ac/{kgw08003})
 </p>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
