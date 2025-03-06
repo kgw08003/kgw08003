@@ -25,16 +25,6 @@
     <img src="https://img.shields.io/badge/티스토리-orange?style=for-the-badge" alt="Portfolio Link">
   </a>
 
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 백준 프로필 </h2>
-  <div style="text-align: left;">
-    <a href="https://solved.ac/kgw08003">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw08003" alt="백준 프로필" />
-    </a>
-  </div>
-</div>
-
-
 </p>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -71,4 +61,12 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgw08003&layout=compact&bg_color=60,fcff33,ff24cf&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎯 백준 프로필 </h2>
+  <div style="text-align: left;">
+    <a href="https://solved.ac/kgw08003">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw08003" alt="백준 프로필" />
+    </a>
+  </div>
+</div>
 
