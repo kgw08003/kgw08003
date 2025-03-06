@@ -63,4 +63,4 @@
     </div>
 
     [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kgw08003})](https://solved.ac/{kgw08003})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kgw08003@naver.com})](https://solved.ac/{kgw08003@naver.com})
