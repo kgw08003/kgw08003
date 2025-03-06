@@ -57,10 +57,9 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-      [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw08003)](https://solved.ac/kgw08003)
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=kgw08003&bg_color=60,fcff33,ff24cf&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgw08003&layout=compact&bg_color=60,fcff33,ff24cf&title_color=000000&text_color=000000"
            /> </div> 
     </div>
 
-
+      [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgw08003)](https://solved.ac/kgw08003)
