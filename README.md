@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3ff47,100:c513f6&height=240&text=Let's%20Grow%20Together!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
-<h2 align="text-align: left">안녕하세요. 백엔드 개발자 김지웅입니다.</h2>
+<h2 align="text-align: left">안녕하세요. Python 개발자 김지웅입니다.</h2>
 
 <p align="text-align: left" style="font-weight: 700; font-size: 15px; color: #282d33;">
   저는 성장하고 꾸준히 도전하는 것을 즐기는 개발자입니다.
